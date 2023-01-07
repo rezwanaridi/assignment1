@@ -126,3 +126,139 @@ i{
 .plan-img{
     padding: 26px 20px;
 }
+
+.wrapper{
+    background-image:url('../images/watch.png');
+    width: 150vh;
+    height: 60vh;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    border-radius: 0px;
+}
+.grad-header{
+    color: #F15B22;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.btn-2{
+    color: #F15B22;
+    margin-left: 50px;
+    margin-top: 30px;
+    background: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    height: 64px;
+}
+.my-section{
+    margin-top: 50px;
+
+}
+.city-title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 700;
+}
+.city{
+    
+    display: flex;
+    gap: 100px;
+}
+.about-city{
+    padding-left: 150px;
+}
+.city-img img{
+    width: 500px;
+    padding-right: 150px;
+}
+.my-city-header{
+   
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #F15B22;
+}
+.my-city-desc{
+    font-weight: 400;
+    font-size: 15px;
+    color: #757575;
+    text-align: justify;
+}
+
+
+footer{
+    background: black;
+    margin-top: 40px;
+}
+.foo{
+    display: flex;
+    gap: 50px;
+    /* justify-content: space-between;*/
+    /* margin: 1px 200px 0px 230px;
+    padding-bottom: 100px;  */
+    
+}
+.subscribe-title{
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+    margin-bottom: 40px;
+    margin-top: 110px;
+}
+.contact-title{
+    margin-top: 110px;
+    margin-bottom: 10px;
+    padding-left: 80px;
+    font-weight: 700;
+    font-size: 50px;
+    color: white;
+}
+.field{
+    color: #FFFFFF;
+    background: black;
+    border-radius: 5px;
+    border: 1px solid white;
+    width: 261px;
+    height: 44px;
+    /* padding-left: 30px; */
+}
+.left{
+    align-items: center;
+    text-align: left;
+    padding-left: 80px;
+    border: #FFFFFF;
+}
+.right{
+    margin-left: 350px;
+    padding-right: 100px;
+    border: #FFFFFF;
+}
+.social-icons{
+    padding-left: 80px;
+    margin-bottom: 30px;
+    /* padding-top: 20px;
+    margin-right: 10px; */
+}
+.left-desc{
+    color: white;
+}
+.sub-btn{
+    color: #F15B22;
+    margin-top: 20px;
+    background: #ffffff;
+    font-weight: 600;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 150px;
+    height: 64px;
+}
