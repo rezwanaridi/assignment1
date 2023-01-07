@@ -2,7 +2,7 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
-
+/* header section */
 .banner{
     background-image: url('../images/banner/banner1.png');
     background-size: cover;
@@ -38,6 +38,7 @@
     color: white;
     border: none;
 }
+/* first part of section */
 .container1{
     margin-top: 80px;
     background-image: url(../images/person.png);
@@ -87,6 +88,8 @@ i{
     color: #16D887;
 }
 
+/* my plan section */
+
 .plan-section{
     display: flex;
     justify-content: space-around;
@@ -127,6 +130,8 @@ i{
     padding: 26px 20px;
 }
 
+/* gradient image section */
+
 .wrapper{
     background-image:url('../images/watch.png');
     width: 150vh;
@@ -163,6 +168,9 @@ i{
     width: 150px;
     height: 64px;
 }
+
+/* about my city section */
+
 .my-section{
     margin-top: 50px;
 
@@ -200,6 +208,7 @@ i{
     text-align: justify;
 }
 
+/* footer section */
 
 footer{
     background: black;
